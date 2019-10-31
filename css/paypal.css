@@ -1,0 +1,13 @@
+body{
+  background-color: var(--green-color);
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  }
+.success_paypal a {
+  color: #D62C06;
+
+}
